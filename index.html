@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📊 주식 데일리 아카이브</title>
+<style>
+  :root {
+    --primary: #dc2626;
+    --bg-main: #1a1a2e;
+    --bg-card: #16213e;
+    --text-main: #f8fafc;
+    --text-muted: #a0b4c8;
+    --border: #0f3460;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    min-height: 100vh;
+  }
+  .container {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 40px 16px;
+  }
+  header {
+    background: linear-gradient(135deg, #16213e 0%, #1a1a2e 100%);
+    border-radius: 20px;
+    padding: 40px 32px;
+    margin-bottom: 30px;
+    text-align: center;
+    border: 1px solid var(--border);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+  }
+  header h1 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    color: #ffffff;
+  }
+  header p {
+    margin: 0;
+    font-size: 14px;
+    color: var(--text-muted);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .list-title {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: var(--text-main);
+  }
+  .newsletter-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .newsletter-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 24px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    text-decoration: none;
+    color: var(--text-main);
+    transition: all 0.25s ease;
+  }
+  .newsletter-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--primary);
+    box-shadow: 0 6px 20px rgba(220, 38, 38, 0.15);
+    background: #1f3057;
+  }
+  .newsletter-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .newsletter-title {
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .latest-label {
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--primary);
+  }
+  .newsletter-date {
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+  .arrow-icon {
+    color: var(--text-muted);
+    transition: transform 0.2s ease;
+  }
+  .newsletter-card:hover .arrow-icon {
+    color: var(--primary);
+    transform: translateX(4px);
+  }
+  footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 13px;
+    color: var(--text-muted);
+    padding-top: 24px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>📊 주식 데일리</h1>
+    <p>Stock Daily Newsletter Archive</p>
+  </header>
+  <!-- Last Updated: init -->
+  <div class="list-title">최근 발행된 뉴스레터 목록</div>
+
+  <div class="newsletter-list">
+  </div>
+
+  <footer>
+    한국·미국 증시를 하나로 — 평일 오전 8시 발행
+  </footer>
+</div>
+</body>
+</html>
