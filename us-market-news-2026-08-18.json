@@ -1,0 +1,52 @@
+{
+  "date": "2026-08-18",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Power Semis Soar Monday: Wolfspeed, STMicro and On Semiconductor Rally on Vera Rubin Ramp Signals",
+        "url": "https://247wallst.com/investing/2026/08/17/power-semis-soar-monday-wolfspeed-stmicro-and-on-semiconductor-rally-on-vera-rubin-ramp-signals/",
+        "summary": "NVIDIA 차세대 AI 플랫폼 Vera Rubin 양산 본격화로 800V 전력 반도체 수요 및 관련주 급등"
+      },
+      {
+        "title": "U.S.-China AI talent race heats up",
+        "url": "https://link.cnbc.com/public/42962275",
+        "summary": "미중 AI 패권 경쟁 속 인재 풀 확보가 글로벌 기술 경쟁력의 핵심 과제로 부각됨"
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Intel raises up to $20bn to fund its foundry bet against TSMC",
+        "url": "https://thenextweb.com/news/intel-15bn-share-sale-turnaround",
+        "summary": "인텔이 TSMC와의 파운드리 경쟁력 강화를 위한 공장 증설 및 첨단 패키징 투자를 위해 최대 200억 달러 자금 조달에 나섬"
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Goldman Sachs bets on 'boomer candy' with NEOS Investments acquisition",
+        "url": "https://www.etfstream.com/articles/goldman-sachs-bets-on-boomer-candy-with-neos-investments-acquisition",
+        "summary": "골드만삭스가 액티브 인컴 ETF 시장 경쟁력 강화를 위해 NEOS Investments를 최대 22.5억 달러에 인수 합의함"
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "Epic faces Federal Trade Commission antitrust investigation, Reuters reports",
+        "url": "https://www.fiercehealthcare.com/health-tech/epic-faces-federal-trade-commission-antitrust-investigation-reuters-reports",
+        "summary": "미국 연방거래위원회(FTC)가 헬스케어 EHR 시장 지배기업인 에픽의 데이터 공유 관행에 대해 반독점 조사에 착수함"
+      }
+    ],
+    "Energy": [
+      {
+        "title": "Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, and Oman adjust production and reaffirm commitment to market stability",
+        "url": "https://www.opec.org/pr-detail/1854611-2-august-2026.html",
+        "summary": "OPEC+ 7개국이 9월 일일 18.8만 배럴 감산 조정을 발표하며 글로벌 원유 시장 안정화 의지를 재확인함"
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll",
+        "url": "https://www.kitco.com/news/off-the-wire/2026-08-17/fed-hold-interest-rates-year-economists-say-sticking-their-view",
+        "summary": "로이터 설문조사 결과 대다수 이코노미스트가 연준이 올해 말까지 기준금리를 현 3.50~3.75% 수준으로 동결할 것으로 전망함"
+      }
+    ]
+  }
+}
