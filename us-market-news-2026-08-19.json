@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-19",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital",
+        "url": "https://www.barchart.com/story/news/3762443/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+        "summary": "엔비디아가 주요 글로벌 투자기관과 협력해 5,000억 달러 이상의 AI 인프라 민간 펀딩 플랫폼을 조성함."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Revenue Keeps Growing at Taiwan Semi. Should You Load Up on TSM Stock for 2026?",
+        "url": "https://www.barchart.com/story/news/37027043/revenue-keeps-growing-at-taiwan-semi-should-you-load-up-on-tsm-stock-for-2026",
+        "summary": "TSMC가 AI 칩 수요 폭증에 힘입어 강력한 분기 실적 및 연간 매출 성장세를 이어가며 선단 노드 시장을 주도하고 있음."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Goldman Sachs Says This 1 Stock Is Set to Be the Biggest AI Productivity Winner",
+        "url": "https://www.barchart.com/story/news/3913574/goldman-sachs-says-this-1-stock-is-set-to-be-the-biggest-ai-productivity-winner",
+        "summary": "골드만삭스가 AI 도입을 통한 생산성 향상 및 인건비 절감 최대 수혜주로 코스타 그룹을 분석함."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "Lilly's olomorasib receives U.S. FDA's Breakthrough Therapy designation for the treatment of previously treated KRAS G12C-mutant advanced pancreatic cancer",
+        "url": "https://www.barchart.com/story/news/3610327/lilly-s-olomorasib-receives-u-s-fda-s-breakthrough-therapy-designation-for-the-treatment-of-previously-treated-kras-g12c-mutant-advanced-pancreatic-cancer",
+        "summary": "일라이 릴리의 KRAS G12C 변이 진행성 췌장암 치료제 후보물질 올로모라십이 미국 FDA 혁신치료제로 지정됨."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "Oil closes at three-week high as hopes of US-Iran peace deal fade",
+        "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-closes-three-week-high-hopes-us-iran-peace-deal-fade",
+        "summary": "미국-이란 평화 협상 난항과 공급망 불안으로 국제 유가가 3주 만에 최고치를 기록함."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
+        "url": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
+        "summary": "지정학적 갈등 여파로 미국 8월 휘발유 평균 가격이 사상 최고치를 경신하며 매크로 인플레이션 우려가 지속됨."
+      }
+    ]
+  }
+}
