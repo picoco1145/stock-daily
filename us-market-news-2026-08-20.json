@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-20",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "History Says This Is What Will Happen to Nvidia Stock After Aug. 26",
+        "url": "https://www.fool.com/investing/2026/08/06/history-says-this-is-what-will-happen-to-nvidia-st/",
+        "summary": "Nvidia heads toward its Q2 earnings release on August 26, 2026, amid high valuation scrutiny and post-earnings volatility expectations."
+      },
+      {
+        "title": "3 Artificial Intelligence (AI) Stocks to Load Up On in August",
+        "url": "https://www.fool.com/investing/2026/08/09/3-artificial-intelligence-ai-stocks-to-load-up-on/",
+        "summary": "Analysis of top AI infrastructure and enterprise tech plays as monetization and custom silicon become primary growth drivers."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Semiconductor Stocks Poised For Best August In Over 20 Years",
+        "url": "https://primexbt.com/news/semiconductor-stocks-poised-for-best-august-in-over-20-years/",
+        "summary": "PHLX Semiconductor Sector Index rebounds over 10% in August 2026, fueled by resilient AI infrastructure hardware demand."
+      },
+      {
+        "title": "HexSeed raises over £600,000 in early-stage funding",
+        "url": "https://www.semiconductor-today.com/news_items/2026/aug/hexseed-190826.shtml",
+        "summary": "UK semiconductor startup secures funding to advance diamond coating thermal management for GaN power devices in data centers."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Treasury Announces Increased Sizes of Nominal Long-End Liquidity Support Buybacks Beginning September 9",
+        "url": "https://home.treasury.gov/news/press-releases/sb0607",
+        "summary": "U.S. Department of the Treasury at least doubles liquidity support buyback operations for longer-dated nominal coupon securities."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "The new commercialisation playbook: What BIO 2026 taught emerging biotechs about scaling globally",
+        "url": "https://pharmaphorum.com/market-access/new-commercialisation-playbook-what-bio-2026-taught-emerging-biotechs-about-scaling",
+        "summary": "Emerging biotech firms adopt AI-driven drug development and agile global commercialization strategies to navigate the patent cliff."
+      },
+      {
+        "title": "2026 Top 26 Trends in Biotechnology and Life Sciences",
+        "url": "https://www.medtechdaily.org/en/articles/biotech-life-science-26-trends-2026",
+        "summary": "Overview of key clinical breakthroughs, gene therapy innovations, and regulatory milestones shaping the biopharma sector."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "Oil closes at three-week high",
+        "url": "https://www.wam.ae/en/article/17dq6he-oil-closes-three-week-high",
+        "summary": "Crude oil prices rally to three-week highs supported by tight physical supplies and heightened geopolitical risks."
+      },
+      {
+        "title": "Oil Market Report - August 2026",
+        "url": "https://www.iea.org/reports/oil-market-report-august-2026",
+        "summary": "IEA report evaluates global demand trajectory, OPEC+ output adjustments, and commercial inventory shifts."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Federal Reserve Board - Federal Reserve issues FOMC statement",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+        "summary": "FOMC maintains target federal funds rate range at 3.50%–3.75% while assessing economic growth and inflation trends."
+      },
+      {
+        "title": "United States Fed Funds Interest Rate",
+        "url": "https://tradingeconomics.com/united-states/interest-rate",
+        "summary": "Market tracking of the effective federal funds rate and interest rate policy expectations ahead of upcoming FOMC decisions."
+      }
+    ]
+  }
+}
