@@ -1,0 +1,52 @@
+{
+  "date": "2026-08-21",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Alibaba profit falls 75% after ramping up AI infrastructure spending",
+        "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/20/alibabas-quarterly-revenue-up-9-misses-adjusted-profit-due-to-heavy-ai-spend/",
+        "summary": "Alibaba reported a 75% decline in net profit amid heavy AI capex while AI cloud revenue surged 45%."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "[News] Intel EMIB-T Push Gains Momentum as TSMC CoWoS Crunch Drives Spillover; Unimicron, ASE Stand to Benefit",
+        "url": "https://www.trendforce.com/news/2026/08/19/news-intel-emib-t-push-gains-momentum-as-tsmc-cowos-crunch-drives-spillover-unimicron-ase-stand-to-benefit/",
+        "summary": "TSMC's severe CoWoS packaging bottleneck is driving spillover demand to Intel's EMIB advanced packaging facilities."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Market Quick Take - US Treasury Buyback Announcement punishes USD",
+        "url": "https://www.home.saxo/content/articles/macro/market-quick-take---us-treasury-buyback-announcement-punishes-usd-20082026",
+        "summary": "The US Treasury's expanded long-term debt buyback operation impacted the US dollar as markets assess bond yields."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "Ultragenyx Announces U.S. FDA Approval of GENGLYCOS™ Gene Therapy, the First-Ever FDA-Approved Treatment Designed to Treat the Underlying Cause of Glycogen Storage Disease Type Ia (GSDIa)",
+        "url": "https://www.biospace.com/press-releases/ultragenyx-announces-u-s-fda-approval-of-genglycos-gene-therapy-the-first-ever-fda-approved-treatment-designed-to-treat-the-underlying-cause-of-glycogen-storage-disease-type-ia-gsdia",
+        "summary": "FDA granted accelerated approval to Ultragenyx's Genglycos, the first gene therapy targeting Glycogen Storage Disease type Ia."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "Crude oil forecast: WTI extends rally amid US-Iran tensions",
+        "url": "https://www.forex.com/en-sg/news-and-analysis/crude-oil-forecast-wti-extends-rally-amid-us-iran-tensions/",
+        "summary": "WTI crude oil prices rallied above $86-$87/bbl due to escalating US-Iran tensions and Middle East supply concerns."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Treasury Announces Increased Sizes of Nominal Long-End Liquidity Support Buybacks Beginning September 9",
+        "url": "https://home.treasury.gov/news/press-releases/sb0607",
+        "summary": "US Treasury announced it will more than double its long-end liquidity support buybacks to at least $4 billion per operation starting September 9."
+      },
+      {
+        "title": "Federal Reserve issues FOMC statement",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+        "summary": "The FOMC held the federal funds rate at 3.50%-3.75% with a 9-3 vote amid mixed views on inflation risks."
+      }
+    ]
+  }
+}
