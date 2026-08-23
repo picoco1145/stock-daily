@@ -1,0 +1,52 @@
+{
+  "date": "2026-08-24",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Nvidia has become world's 'most important stock,' adding pressure to upcoming earnings report",
+        "url": "https://www.cnbc.com/2024/08/27/nvidia-is-worlds-most-important-stock-adds-pressure-to-q2-earnings.html",
+        "summary": "엔비디아의 실적 발표를 앞두고 AI 랠리 지속 여부에 대한 시장의 기대와 압박이 집중되고 있다."
+      },
+      {
+        "title": "Mark Zuckerberg alleges Biden administration pressured Meta to censor Covid-19 content",
+        "url": "https://www.cnbc.com/2024/08/27/zuckerberg-alleges-white-house-pressured-meta-to-censor-covid-19-content.html",
+        "summary": "마크 저커버그 메타 CEO가 미 의회에 정부로부터 코로나19 관련 검열 압박을 받았다고 밝혔다."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Something concerning is going on with chip stocks ahead of Nvidia earnings",
+        "url": "https://www.cnbc.com/2024/08/27/something-concerning-is-going-on-with-chip-stocks-ahead-of-nvidia-earnings.html",
+        "summary": "엔비디아 실적을 앞두고 주요 지수와 달리 반도체 지수는 여전히 조정을 겪으며 시장의 경계감이 지속되고 있다."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Berkshire Hathaway continues to reduce stake in Bank of America",
+        "url": "https://link.cnbc.com/public/36285332",
+        "summary": "버크셔 해서웨이가 뱅크오브아메리카 지분을 지속 매각하며 금융주 포트폴리오를 조정하고 있다."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "Eli Lilly releases new form of weight loss drug Zepbound for half the price to boost access, supply",
+        "url": "https://www.cnbc.com/2024/08/27/zepbound-eli-lilly-releases-new-cheaper-form-of-weight-loss-drug.html",
+        "summary": "일라이 릴리가 비만 치료제 젭바운드의 싱글 도즈 바이알 버전을 기존 가격의 절반 수준에 출시했다."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "U.S. crude oil falls more than 2% as market hopes Libya production halt will be short lived",
+        "url": "https://www.cnbc.com/2024/08/27/crude-oil-prices-today.html",
+        "summary": "리비아 원유 생산 중단 사태가 조기에 끝날 것이라는 전망이 나오면서 미국 원유 가격이 2% 넘게 하락했다."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Dow ekes out fresh record close ahead of Nvidia earnings",
+        "url": "https://www.cnbc.com/2024/08/26/stock-market-today-live-updates.html",
+        "summary": "엔비디아 실적 발표와 경제 지표 공개를 앞두고 다우 지수가 소폭 상승하며 최고치를 기록했다."
+      }
+    ]
+  }
+}
