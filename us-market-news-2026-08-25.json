@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-25",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Nvidia to Report Second-Quarter Fiscal 2027 Financial Results",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-to-report-second-quarter-fiscal-2027-financial-results",
+        "summary": "Nvidia schedules its Q2 FY27 earnings conference call for August 26, 2026, amid intense investor focus on AI infrastructure demand."
+      },
+      {
+        "title": "Will Nvidia Stock Soar After Aug 26? Here's What History Shows",
+        "url": "https://www.fool.com/investing/2026/08/24/will-nvidia-stock-soar-after-aug-26-here-s-what-history-shows/",
+        "summary": "Historical analysis of Nvidia stock performance around its late-August earnings announcements and current valuation metrics."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Asian stocks under pressure after US tech selloff",
+        "url": "https://www.swissinfo.ch/eng/asian-stocks-under-pressure-after-us-tech-selloff%3A-markets-wrap/91948594",
+        "summary": "Asian chipmakers and tech shares tumbled following a tech-led Wall Street decline and Nvidias extended losing streak."
+      },
+      {
+        "title": "South Korean and Asian Chipmakers Slump on AI Valuation Worries",
+        "url": "https://www.chosun.com/english/market-money-en/2026/08/25/ZZDG6UVMZJD75N3PYNMQY26ZEI/",
+        "summary": "Memory makers and semiconductor firms faced heavy selling as investors took profits ahead of major AI earnings."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "JPMorgan Technical Analysis Signals Seasonal Stock Market Weakness",
+        "url": "https://www.businessinsider.com/stock-market-outlook-sell-stocks-signal-sp500-technical-analysis-jpmorgan-2026-8",
+        "summary": "JPMorgan strategists warned investors of seasonal vulnerabilities and potential sell-offs heading into September and October."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "FDA Approves IMAAVY (nipocalimab-aahu) as First-Ever Treatment for wAIHA",
+        "url": "https://www.jnj.com/media-center/press-releases/fda-approves-imaavy-nipocalimab-aahu-as-first-ever-treatment-for-warm-autoimmune-hemolytic-anemia-waiha-representing-a-landmark-advancement-for-patients",
+        "summary": "Johnson & Johnson received landmark FDA approval for IMAAVY, the first targeted therapy for warm autoimmune hemolytic anemia."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "Oil Dips as Traders Weigh US Economic Pressure on Iran",
+        "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-dips-traders-weigh-us-economic-pressure-iran",
+        "summary": "Crude oil prices retreated as markets evaluated aggressive US sanctions aimed at isolating Iran and securing shipping routes."
+      },
+      {
+        "title": "Morning Wrap: Oil Prices Heading Back Down",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/morning-wrap-oil-prices-heading-back-down-24-08-2026",
+        "summary": "WTI and Brent crude experienced consolidation and backwardation pressures amidst shifting geopolitical risk premiums."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Federal Reserve FOMC Monetary Policy Statement",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+        "summary": "The Federal Open Market Committee maintained the benchmark federal funds rate range at 3.50% to 3.75% with dissent."
+      }
+    ]
+  }
+}
