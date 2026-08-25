@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-26",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Nvidia Earnings: Live Updates and Commentary August 2026",
+        "url": "https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-august-2026",
+        "summary": "Wall Street closely watches Nvidia fiscal Q2 earnings report as prime bellwether for AI demand and hyperscaler capex."
+      },
+      {
+        "title": "The Smart Money Is Sending a Mixed Signal on AI Stocks",
+        "url": "https://247wallst.com/investing/2026/08/24/the-smart-money-is-sending-a-mixed-signal-on-ai-stocks/",
+        "summary": "Institutional investors adjust tech exposure amid scrutiny over generative AI enterprise ROI."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Dear Synopsys Stock Fans, Mark Your Calendars for August 26",
+        "url": "https://www.barchart.com/story/news/3893330/dear-synopsys-stock-fans-mark-your-calendars-for-august-26",
+        "summary": "Synopsys heads toward its Q3 earnings release as EDA software demand tests valuation multiples."
+      },
+      {
+        "title": "AI is turning the semiconductor market into a $1.6 trillion industry",
+        "url": "https://www.networkworld.com/article/4213288/ai-is-turning-the-semiconductor-market-into-a-1-6-trillion-industry.html",
+        "summary": "Gartner forecasts global semiconductor revenues to reach $1.6 trillion propelled by AI and memory recovery."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "FDIC Quarterly Banking Profile Second Quarter 2026",
+        "url": "https://www.fdic.gov/news/speeches/2026/fdic-quarterly-banking-profile-second-quarter-2026",
+        "summary": "FDIC reports aggregate net bank income jumped 12% to $90.1 billion in Q2 2026 with strong asset quality."
+      },
+      {
+        "title": "US Consumer Confidence - The Conference Board",
+        "url": "https://www.conference-board.org/topics/consumer-confidence/index.cfm",
+        "summary": "US consumer confidence softened slightly in August as future business expectations declined."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "U.S. FDA Approves Ziihera® (zanidatamab-hrii) in First-Line HER2-Advanced Gastroesophageal Adenocarcinoma",
+        "url": "https://www.prnewswire.com/news-releases/us-fda-approves-ziihera-zanidatamab-hrii-with-and-without-tislelizumab-plus-chemotherapy-in-first-line-her2-advanced-gastroesophageal-adenocarcinoma-302859470.html",
+        "summary": "FDA approves Jazz Pharmaceuticals Ziihera combination regimens for HER2-positive gastroesophageal cancer."
+      },
+      {
+        "title": "BioMarin to Acquire Alesta Therapeutics to Gain ALE1, a Potential First Oral Therapy for Hypophosphatasia",
+        "url": "https://www.biomarin.com/news/press-releases/biomarin-to-acquire-alesta-therapeutics-to-gain-ale1-a-potential-first-oral-therapy-for-hypophosphatasia-adding-an-important-clinical-program-to-biomarins-pipeline/",
+        "summary": "BioMarin agrees to acquire Alesta Therapeutics to strengthen rare disease pipeline with oral therapy."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "Oils 3% Drop Ignores a 1.8 Million Barrel Deficit & a Depleting Reserve Buffer",
+        "url": "https://www.cruxinvestor.com/posts/oils-3-drop-ignores-a-1-8-million-barrel-deficit-a-depleting-reserve-buffer",
+        "summary": "WTI crude pulled back toward $82 as geopolitical war risk eased despite tight supply deficit projections."
+      },
+      {
+        "title": "Energy stocks soar to record as oil rises on Trumps hard line",
+        "url": "https://www.energyconnects.com/news/oil/2026/august/energy-stocks-soar-to-record-as-oil-rises-on-trump-s-hard-line/",
+        "summary": "US energy sector equities hit record highs supported by strong earnings and crude price resilience."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+        "summary": "Federal Reserve minutes detail the decision to hold policy rate at 3.50%-3.75% while monitoring inflation."
+      },
+      {
+        "title": "Release Schedule | U.S. Bureau of Economic Analysis (BEA)",
+        "url": "https://www.bea.gov/news/schedule",
+        "summary": "BEA prepares second estimate of Q2 GDP and July PCE inflation report to guide interest rate path."
+      }
+    ]
+  }
+}
