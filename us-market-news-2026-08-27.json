@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-27",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+        "summary": "NVIDIA reported record quarterly revenue of .2 billion, up 106% YoY, driven by massive data center AI demand."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "TSMC Shareholders Elect Board of Directors and Advance AI Capacity Expansion",
+        "url": "https://pr.tsmc.com/english/news/3148",
+        "summary": "TSMC expands advanced CoWoS packaging and sub-2nm node manufacturing to meet global AI accelerator requirements."
+      },
+      {
+        "title": "AMD Investor Relations News and Semiconductor Releases",
+        "url": "https://ir.amd.com/news-events/press-releases",
+        "summary": "AMD accelerates Helios AI rack production and EPYC server processor roadmap across global supply chains."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Federal Reserve issues FOMC statement on Monetary Policy and Rates",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+        "summary": "The Federal Reserve maintains federal funds rate target at 3.50%-3.75% while tracking inflation developments."
+      },
+      {
+        "title": "FDIC Quarterly Banking Profile",
+        "url": "https://www.fdic.gov/analysis/quarterly-banking-profile",
+        "summary": "U.S. commercial banks show stable return on assets and healthy loan performance amid monetary policy shifts."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "National Cancer Institute - Cancer Research and Clinical Updates Blog",
+        "url": "https://www.cancer.gov/news-events/cancer-currents-blog",
+        "summary": "Regulatory reviews advance for first-in-class targeted cancer therapies and clinical oncology innovations."
+      },
+      {
+        "title": "Gilead Sciences Press Releases and Therapeutics News",
+        "url": "https://www.gilead.com/news-and-press/press-room/press-releases",
+        "summary": "Biopharma developers report progress on combination therapies and regulatory review milestones."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "EIA Weekly Petroleum Status Report",
+        "url": "https://www.eia.gov/petroleum/supply/weekly/",
+        "summary": "U.S. commercial crude oil inventories recorded a modest build as global oil benchmarks reacted to Middle East transit developments."
+      },
+      {
+        "title": "Today in Energy - U.S. Energy Information Administration",
+        "url": "https://www.eia.gov/todayinenergy/",
+        "summary": "Crude oil markets stabilize around /bbl following diplomatic talks on commercial shipping security."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "U.S. Economy at a Glance - Bureau of Economic Analysis",
+        "url": "https://www.bea.gov/news/glance",
+        "summary": "BEA confirmed second-quarter real GDP growth at 1.5% annualized rate, supported by consumer and investment spending."
+      },
+      {
+        "title": "FOMC Meeting Calendars and Economic Information",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "summary": "Markets analyze upcoming September FOMC policy path and economic projections amid latest price index data."
+      }
+    ]
+  }
+}
