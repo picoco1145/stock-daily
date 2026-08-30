@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-31",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "High Growth US Tech Stocks to Watch in August 2026",
+        "url": "https://simplywall.st/stocks/us/tech/nyse-fn/fabrinet/news/high-growth-us-tech-stocks-to-watch-in-august-2026",
+        "summary": "AI 인프라 수요 확대 속에 팰런티어 등 고성장 테크 기업의 실적 모멘텀 및 밸류에이션 전망 분석."
+      },
+      {
+        "title": "Nvidia ignites chip stock rally as forecast shows AI boom is intact",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/27/nvidia-ignites-chip-stock-rally-as-forecast-shows-ai-boom-is-intact",
+        "summary": "엔비디아가 장기 매출 전망을 통해 AI 수요 둔화 우려를 완화하며 기술주 전반의 랠리를 촉발함."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Nvidia ignites chip stock rally as forecast shows AI boom is intact",
+        "url": "https://live.euronext.com/en/financial-news/nvidia-ignites-chip-stock-rally-forecast-shows-ai-boom-intact",
+        "summary": "엔비디아의 호실적 전망 발표 이후 글로벌 반도체 공급망 기업들의 주가 및 투자 심리 개선."
+      },
+      {
+        "title": "Nvidia ignites chip stock rally as forecast shows AI boom is intact",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/27/nvidia-ignites-chip-stock-rally-as-forecast-shows-ai-boom-is-intact",
+        "summary": "블랙웰 및 차세대 AI 칩 수요 지속에 힘입어 반도체 섹터 전반에 대한 긍정적 평가 유지."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+        "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+        "summary": "연준의 금리 정책 향방과 국채 시장 개입 여부가 대형 금융주 및 은행 섹터 수익성에 핵심 변수로 부각됨."
+      },
+      {
+        "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
+        "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
+        "summary": "연준 위원의 매파적 발언에 따라 국채 금리가 상승세를 보이며 은행권 순이자마진 전망에 영향."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "Jazz Pharmaceuticals Announces Pricing of Upsized Private Offering of .1 Billion of 1.875% Exchangeable Senior Notes due 2032 and Concurrent Ordinary Share Repurchases",
+        "url": "https://www.prnewswire.com/news-releases/jazz-pharmaceuticals-announces-pricing-of-upsized-private-offering-of-1-1-billion-of-1-875-exchangeable-senior-notes-due-2032-and-concurrent-ordinary-share-repurchases-302861272.html",
+        "summary": "재즈 파마슈티컬스가 11억 달러 규모 교환사채 발행 조건을 확정하고 자사주 매입을 동시 추진함."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "OPEC+ Decides to Boost Production Further in August",
+        "url": "https://www.rigzone.com/news/opec_decides_to_boost_production_further_in_august-06-jul-2026-184064-article/",
+        "summary": "OPEC+ 주요 7개국이 시장 안정을 목표로 8월 일일 18만 8천 배럴의 자발적 감산 완화 이행을 결정함."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+        "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+        "summary": "잭슨홀 경제정책 심포지엄에서 케빈 워시 연준 의장이 인플레이션 고착화 우려와 통화정책 기조를 제시함."
+      },
+      {
+        "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
+        "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
+        "summary": "클리블랜드 연은 총재 등 주요 당국자들이 인플레이션 억제를 위해 추가 금리 인상 필요성을 강조함."
+      }
+    ]
+  }
+}
