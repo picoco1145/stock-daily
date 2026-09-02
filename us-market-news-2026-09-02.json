@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-02",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+        "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+        "summary": "Dell raised its full-year guidance following strong enterprise and hyperscaler demand for AI-optimized servers."
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Dell, MongoDB, GitLab and more",
+        "url": "https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-after-hours-dell-mdb-gtlb-and-more.html",
+        "summary": "Major enterprise AI and cloud software companies showed volatility following earnings reports."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Stocks making the biggest moves premarket: Nvidia, Robinhood, Novartis & more",
+        "url": "https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-premarket-nvda-hood-nvs.html",
+        "summary": "Nvidia led semiconductor premarket volume amid high investor attention on AI chip infrastructure."
+      },
+      {
+        "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+        "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+        "summary": "AI hardware and chip demand continues to drive upward revisions for server and component makers."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
+        "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
+        "summary": "House lawmakers passed a stopgap funding bill to avert a partial federal government shutdown."
+      },
+      {
+        "title": "China dissented from G20 statement opposing cheap exports flooding market, Bessent says",
+        "url": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+        "summary": "G20 finance discussions highlighted international trade frictions, tariffs, and global debt management."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "Trump strikes new drug pricing deals with nine midsized drugmakers",
+        "url": "https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html",
+        "summary": "Nine drugmakers agreed to outpatient Medicaid price discounts aligned with international reference prices."
+      },
+      {
+        "title": "After a sell-off, this medical device stock looks like a gift for patient investors",
+        "url": "https://www.cnbc.com/2026/09/01/this-medical-device-stock-looks-like-a-gift-for-patient-investors.html",
+        "summary": "Market analysts assess healthcare and medical device valuations following recent sector fluctuations."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "U.S. completes fresh strikes on Iran as Mideast tensions flare again",
+        "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+        "summary": "Renewed military tensions near Strait of Hormuz sparked crude oil supply disruption concerns and price spikes."
+      },
+      {
+        "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
+        "url": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
+        "summary": "Higher crude prices fueled inflation concerns, pushing benchmark bond yields and mortgage rates up."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Federal Reserve issues FOMC statement regarding monetary policy and interest rate target range",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+        "summary": "The FOMC maintained the federal funds target range at 3.50% to 3.75% while monitoring labor and inflation data."
+      },
+      {
+        "title": "Gross Domestic Product (GDP) Data | U.S. Bureau of Economic Analysis (BEA)",
+        "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+        "summary": "Real GDP expanded at an annual rate of 1.5% in the second quarter of 2026 based on the BEA second estimate."
+      }
+    ]
+  }
+}
