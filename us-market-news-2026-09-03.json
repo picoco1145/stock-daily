@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-03",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Wall Street ends higher as stocks reclaim some shine",
+        "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-higher-as-stocks-reclaim-some-shine",
+        "summary": "Wall Street rebounded as major indexes gained, driven by small-caps and AI tech stocks that snapped a three-day slide."
+      },
+      {
+        "title": "The Market's Most Feared Month Is Here: These 3 AI Stocks Could Protect and Grow Your Wealth in September",
+        "url": "https://www.fool.com/investing/2026/09/01/the-markets-most-feared-month-is-here-these-3-ai-s/",
+        "summary": "Analysis of resilient AI technology and infrastructure plays positioned to handle seasonal September volatility."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Broadcom Q3 revenue jumps 86 pct on strong AI demand",
+        "url": "https://www.thestar.com.my/news/world/2026/09/03/broadcom-q3-revenue-jumps-86-pct-on-strong-ai-demand",
+        "summary": "Broadcom reported soaring Q3 results with $16.7 billion in AI semiconductor revenue, up 221% year-over-year."
+      },
+      {
+        "title": "Broadcom Inc. Announces Third Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend",
+        "url": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302868129.html",
+        "summary": "Broadcom officially detailed fiscal Q3 2026 results and guided Q4 AI semiconductor revenue to reach $21.7 billion."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Bond Sell-Off Heats Up as Oil Prices Continue to Rise",
+        "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/09/01/bond-sell-off-heats-up-as-oil-prices-continue-to-rise/",
+        "summary": "Rising energy prices and higher-for-longer interest rate prospects triggered renewed bond sell-offs impacting financial sector valuations."
+      },
+      {
+        "title": "Treasury Announces Increased Sizes of Nominal Long-End Liquidity Support Buybacks Beginning September 9",
+        "url": "https://home.treasury.gov/news/press-releases/sb0607",
+        "summary": "The U.S. Department of the Treasury scheduled increased liquidity support buyback operations for nominal coupon debt securities."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "Big biotech IPOs are back. Will they pop or drop?",
+        "url": "https://www.biopharmadive.com/news/bio-2026-ipo-biotech-performance-predictions/823474/",
+        "summary": "A resurgence in biotech IPO activity and venture funding marks a stronger turnaround for the biopharma industry in 2026."
+      },
+      {
+        "title": "10 clinical trials to watch in the second half of 2026",
+        "url": "https://www.biopharmadive.com/news/biotech-pharma-clinical-trials-watch-2026/808255/",
+        "summary": "Key late-stage clinical trial readouts across gene therapy, immunology, and oncology slated for the second half of 2026."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "Oil settles 1% higher as US-Iran strikes threaten supplies",
+        "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-settles-1-higher-us-iran-strikes-threaten-supplies",
+        "summary": "Crude benchmarks surged with Brent hitting $95.63 per barrel amid geopolitical tensions and supply security concerns in the Strait of Hormuz."
+      },
+      {
+        "title": "OPEC+ to increase oil output by 188,000 bpd in September 2026",
+        "url": "https://saudigazette.com.sa/article/663419/saudi-arabia/opec-to-increase-oil-output-by-188000-bpd-in-september-2026",
+        "summary": "Seven OPEC+ nations began rolling out a planned 188,000 bpd monthly output increase under their gradual quota unwinding strategy."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Job openings rise, hiring slows, affirming labor market stability",
+        "url": "https://www.cfodive.com/news/job-openings-rise-hiring-slows-affirming-labor-market-stability-fed-manufacturing-GDP/829359/",
+        "summary": "Economic indicators reflect steady labor conditions with unemployment at 4.1% ahead of the pivotal August employment report."
+      },
+      {
+        "title": "Speech by Vice Chair for Supervision Barr on bank supervision and financial resilience",
+        "url": "https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm",
+        "summary": "Federal Reserve Vice Chair Michael Barr reviewed banking regulatory posture and systemic financial resilience under persistent inflation."
+      }
+    ]
+  }
+}
