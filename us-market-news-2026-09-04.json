@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-04",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Stock Market Today (Sept. 3): HPE Jumps 5%, Raises Fiscal Outlook on Record AI Server Demand",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/09/03/stock-market-today-sept-3-hpe-jumps-5-raises-fiscal-outlook-on-record-ai-server-demand/",
+        "summary": "HPE surged over 5% after reporting strong quarterly results and raising its full-year outlook on record AI server demand."
+      },
+      {
+        "title": "The Market Just Told You Which Layer of AI Biology It Is Paying For",
+        "url": "https://markets.businessinsider.com/news/stocks/the-market-just-told-you-which-layer-of-ai-biology-it-is-paying-for-1036520634",
+        "summary": "Investors are shifting capital toward companies with proprietary data assets and wet-lab validation over pure software models."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Nvidia to buy AI platform Hugging Face for US$12.9 billion - Taipei Times",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/04/2003863641",
+        "summary": "Nvidia announced the acquisition of Hugging Face for $12.9 billion to solidify its software ecosystem and AI developer community."
+      },
+      {
+        "title": "TSMC Delays Hybrid Bonding Investment for HBM, Opts for Microbumps",
+        "url": "https://www.techpowerup.com/352267/tsmc-delays-hybrid-bonding-investment-for-hbm-opts-for-microbumps",
+        "summary": "TSMC is delaying hybrid bonding capacity expansion for HBM packaging, relying on microbumps to maintain high production throughput."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Global bond sell-off accelerates amid US-Iran tensions and inflation fears",
+        "url": "https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears",
+        "summary": "Escalating Middle East conflict and renewed inflation concerns triggered a global government bond sell-off and pushed yields higher."
+      },
+      {
+        "title": "Why Goldman Sachs (GS) Dipped More Than Broader Market Today",
+        "url": "https://www.zacks.com/stock/news/2983434/why-goldman-sachs-gs-dipped-more-than-broader-market-today",
+        "summary": "Goldman Sachs shares experienced selling pressure following interest rate uncertainty and sector-wide profit taking."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "FDA Approves Ionis' Antisense Drug as First Targeted Therapy for Alexander Disease",
+        "url": "https://www.biospace.com/fda/fda-approves-ionis-antisense-drug-as-first-targeted-therapy-for-alexander-disease",
+        "summary": "The FDA approved Zanvastro (zilganersen), marking the first targeted disease-modifying therapy for Alexander disease."
+      },
+      {
+        "title": "Ultragenyx Shares Drop After Failed Phase III Trial",
+        "url": "https://www.pharmexec.com/view/ultragenyx-shares-drop-failed-phase-iii-trial",
+        "summary": "Ultragenyx stock dropped sharply following the failure of its late-stage Phase III study for Angelman syndrome."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "Oil Prices Extend Gains Amid Inflation Concerns",
+        "url": "https://qna.org.qa/en/news/news-details?id=oil-prices-extend-gains-amid-inflation-concerns&date=3/09/2026",
+        "summary": "WTI crude advanced past $92 per barrel as supply disruption worries around the Strait of Hormuz mounted."
+      },
+      {
+        "title": "OPEC+ completes rollback of oil production cuts with September hike",
+        "url": "https://www.energyconnects.com/news/oil/2026/august/opecplus-completes-rollback-of-oil-production-cuts-with-september-hike/",
+        "summary": "OPEC+ executed its final planned supply hike of 188,000 bpd in September, rolling back 2023 voluntary production cuts."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Speech by Governor Waller on the economic outlook",
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
+        "summary": "Fed Governor Waller stated rates could remain steady if inflation moderates, but kept rate hikes on the table if data heats up."
+      },
+      {
+        "title": "Odds of a rate hike now 50-50 following Fed governor's speech",
+        "url": "https://www.realestatenews.com/2026/09/03/odds-of-a-rate-hike-now-50-50-following-fed-governors-speech",
+        "summary": "Market expectations for the September FOMC meeting shifted to an even split between a pause and a 25 bps rate hike."
+      }
+    ]
+  }
+}
