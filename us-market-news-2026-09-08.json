@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-08",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+        "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+        "summary": "Nvidia agreed to acquire AI platform Hugging Face for $12.9 billion to secure its position in open-source developer ecosystems."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Canaan Inc. to Report Second Quarter 2026 Financial Results on September 8, 2026",
+        "url": "https://investingnews.com/canaan-inc-to-report-second-quarter-2026-financial-results-on-september-8-2026/",
+        "summary": "Canaan Inc. announced it will release its unaudited second quarter 2026 financial results on September 8, 2026."
+      },
+      {
+        "title": "No shortcut to excellence in chips: TSMC executive",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/08/2003863849",
+        "summary": "TSMC leadership emphasized continuous long-term R&D over shortcuts to maintain manufacturing dominance in advanced packaging and AI chips."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "WaFd, Inc. Enters into a $3.9 Billion Reverse Merger Transaction with EverBank Financial Corp",
+        "url": "https://www.morningstar.com/news/pr-newswire/20260907ny41981/wafd-inc-enters-into-a-39-billion-reverse-merger-transaction-with-everbank-financial-corp",
+        "summary": "WaFd and EverBank agreed to a definitive $3.9 billion reverse merger combining into a premier national commercial bank."
+      },
+      {
+        "title": "Bank of Montreal Receives Regulatory Approvals for Normal Course Issuer Bid",
+        "url": "https://www.newswire.ca/news-releases/bank-of-montreal-receives-regulatory-approvals-for-normal-course-issuer-bid-809041815.html",
+        "summary": "Bank of Montreal received regulatory approval to repurchase up to 20 million shares starting September 8, 2026."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "FDA Approves Camizestrant Combination Regimen for Locally Advanced or Metastatic Breast Cancer",
+        "url": "https://ascopost.com/news/september-2026/fda-approves-camizestrant-combination-regimen-for-locally-advanced-or-metastatic-breast-cancer/",
+        "summary": "The US FDA granted accelerated approval to AstraZeneca's camizestrant in combination with CDK4/6 inhibitors for ESR1-mutated breast cancer."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "OPEC+ keeps oil output policy unchanged for October",
+        "url": "https://www.tbsnews.net/world/opec-keeps-oil-output-policy-unchanged-october-1535006",
+        "summary": "OPEC+ decided to keep October oil production quotas unchanged from September levels, pausing previously planned output increases."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "UBS: Two Fed Hikes Incoming, but Equity Bull Case Still Intact",
+        "url": "https://investinglive.com/stocks/ubs-two-fed-hikes-incoming-but-equity-bull-case-still-intact/",
+        "summary": "UBS forecasted two Federal Reserve interest rate hikes in 2026 after stronger-than-expected US August nonfarm payrolls."
+      }
+    ]
+  }
+}
