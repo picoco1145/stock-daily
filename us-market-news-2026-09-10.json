@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-10",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "NVIDIA to Acquire Hugging Face",
+        "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+        "summary": "NVIDIA agrees to acquire open-source AI hub Hugging Face for $12.9B to scale developer infrastructure."
+      },
+      {
+        "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+        "url": "https://www.apple.com/sa/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+        "summary": "Apple unveils iPhone 18 Pro series powered by A20 Pro chip and next-gen variable aperture camera."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "TSMC and ASML Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+        "url": "https://www.asml.com/en/news/press-releases/2026/tsmc-and-asml-announce-industry-transition-to-large-format-photomasks-for-high-na-euv",
+        "summary": "TSMC and ASML collaborate to transition advanced chipmaking to 12-inch photomasks for High NA EUV lithography."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Virginia banks to combine in $253M deal",
+        "url": "https://www.bankingdive.com/news/virginia-253m-deal-john-marshall-bank-of-clarke-eagle-financial/829909/",
+        "summary": "John Marshall Bancorp agrees to acquire Eagle Financial Services for $253 million in an all-stock deal."
+      },
+      {
+        "title": "Lument Finance Trust Announces Completion of Reverse Stock Split",
+        "url": "https://www.prnewswire.com/news-releases/lument-finance-trust-announces-completion-of-reverse-stock-split-302874329.html",
+        "summary": "Lument Finance Trust completes 1-for-10 reverse stock split with trading effective September 10, 2026."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "FDA grants accelerated approval to sevabertinib for locally advanced or metastatic non-squamous non-small cell lung cancer",
+        "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-sevabertinib-locally-advanced-or-metastatic-non-squamous-non-small",
+        "summary": "FDA grants accelerated approval to sevabertinib (Hyrnuo) for metastatic NSCLC patients with HER2 activating mutations."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "OPEC+ keeps output policy unchanged for October",
+        "url": "https://www.energyconnects.com/news/oil/2026/september/opecplus-keeps-output-policy-unchanged-for-october/",
+        "summary": "OPEC+ maintains oil production levels for October amid geopolitical disruptions in the Middle East."
+      },
+      {
+        "title": "Organization of the Petroleum Exporting Countries Statement",
+        "url": "https://www.opec.org/pr-detail/1835613-6-september-2026.html",
+        "summary": "Key OPEC+ nations confirm pause on production increases and reaffirm commitment to oil market stability."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "FOMC Meeting Sept. 2026: Date, Schedule, Expectations and How To Watch?",
+        "url": "https://coingape.com/fomc-meeting-sept-2026-date-schedule-expectations-and-how-to-watch/",
+        "summary": "Markets evaluate Federal Reserve interest rate path ahead of September 15-16 FOMC meeting after strong August jobs data."
+      }
+    ]
+  }
+}
