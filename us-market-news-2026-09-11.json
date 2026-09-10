@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-11",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
+        "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
+        "summary": "Oracle reported stronger-than-expected earnings driven by cloud infrastructure revenue surging over 100%."
+      },
+      {
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-explains-why-nvidia-215159365.html",
+        "summary": "Nvidia CEO Jensen Huang highlighted massive next-generation AI infrastructure demand fueling projected 70% revenue expansion."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "TSMC Falls After Record Sales--AI Investors Want Even More",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-falls-record-sales-ai-181038310.html",
+        "summary": "TSMC shares fell despite record August sales as high expectations and rising yields triggered profit-taking."
+      },
+      {
+        "title": "Intel Stock Plunges 4% as Piper Sandler Turns Neutral on Chipmaker",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-plunges-4-piper-182238098.html",
+        "summary": "Intel shares slid 4% after Piper Sandler initiated neutral coverage citing ongoing foundry turnaround hurdles."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+        "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+        "summary": "OpenAI launched a specialized ChatGPT for Financial Services aimed at automating heavy analysis workflows on Wall Street."
+      },
+      {
+        "title": "Goldman's IG Deal Expands Canadian Wealth Reach & AWM Scale",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/goldmans-ig-deal-expands-canadian-134900537.html",
+        "summary": "Goldman Sachs expanded its Canadian wealth footprint and asset management scale through a strategic deal with IG Wealth."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "A rare disease is taking his vision. A gene therapy could help — if he can get it",
+        "url": "https://www.cnbc.com/2026/09/10/rare-disease-is-taking-his-sight-access-to-a-treatment-is-hard-to-get.html",
+        "summary": "Patients face steep economic and institutional barriers accessing newly developed gene therapies for rare vision loss."
+      },
+      {
+        "title": "Pfizer Stock Rises Almost 9% in 3 Months: Time to Buy, Hold or Exit?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/pfizer-stock-rises-almost-9-121100844.html",
+        "summary": "Pfizer shares gained nearly 9% over three months as investors assess its pipeline restructuring and oncology growth prospects."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "U.S. crude oil tops  again – last seen in May – as market braces for prolonged Iran war",
+        "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+        "summary": "WTI crude crossed  per barrel as intensifying Middle East conflict stoked fears of prolonged crude shipment disruptions."
+      },
+      {
+        "title": "Exxon Rally Fades as Brent Crude Jumps 4% Above ",
+        "url": "https://finance.yahoo.com/energy/articles/exxon-rally-fades-brent-crude-174651272.html",
+        "summary": "ExxonMobil shares paused after recent gains even as Brent benchmark crude surged past  per barrel."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+        "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
+        "summary": "August CPI inflation data serves as the pivotal final report determining the Federal Reserve's rate path next week."
+      },
+      {
+        "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+        "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+        "summary": "Persistent core price indicators lifted market bets on a potential rate increase at the upcoming FOMC gathering."
+      }
+    ]
+  }
+}
