@@ -1,0 +1,107 @@
+{
+  "date": "2026-09-14",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+        "url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+        "summary": "US lawmakers face urgent calls from tech executives and AI safety groups to implement regulatory guardrails before the legislative window shuts."
+      },
+      {
+        "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+        "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+        "summary": "Anthropic CEO Dario Amodei warned that strategic competition with China complicates voluntary pauses in frontier AI model scaling."
+      },
+      {
+        "title": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
+        "summary": "Piper Sandler analysis suggests Nvidia's current valuation remains attractive provided ambitious forward earnings projections materialize."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
+        "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
+        "summary": "Intel capitalizes on near-term server CPU supply constraints while long-term execution of its standalone foundry business remains pivotal."
+      },
+      {
+        "title": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
+        "summary": "AMD and Intel collaborate to land standardized x86 AI instruction set extensions in GCC compilers to defend market share against ARM architectures."
+      },
+      {
+        "title": "Broadcom’s Custom AI Chip Boom Has a Powerful Landlord: TSM",
+        "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-custom-ai-chip-boom-231614780.html",
+        "summary": "Broadcom's booming application-specific AI chip business depends heavily on advanced foundry capacity and CoWoS packaging from TSMC."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Berkshire Hathaway Stock Is Trailing the S&P 500 by About 10 Points This Year. History Says That Usually Doesn't Last.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-trailing-p-223401074.html",
+        "summary": "Berkshire Hathaway has lagged broader equity indices in 2026, though historical precedent suggests its record cash reserves often buffer cyclical pullbacks."
+      },
+      {
+        "title": "Morgan Stanley delivers blunt message to America’s pet owners",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
+        "summary": "Morgan Stanley equity researchers highlight shifting consumer spending patterns and tighter household budgets impacting discretionary pet expenditures."
+      },
+      {
+        "title": "Sector Update: Financial Stocks Higher Late Afternoon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-higher-afternoon-200051514.html",
+        "summary": "US financial sector equities gained ground in afternoon trading led by insurance providers and large diversified money-center banks."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "Boston Scientific (BSX) Didn’t Miss on Demand or Devices. A Cyberattack Just Broke Its Guidance.",
+        "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bsx-didn-t-193111827.html",
+        "summary": "Boston Scientific trimmed fiscal outlook solely due to operational downtime from a cyber incident despite resilient cardiovascular device demand."
+      },
+      {
+        "title": "Should You Buy Bristol Myers Squibb Stock Right Now for the Yield Alone?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/buy-bristol-myers-squibb-stock-195300266.html",
+        "summary": "Bristol Myers Squibb offers an elevated dividend yield as the pharmaceutical major manages loss of exclusivity for legacy blockbusters."
+      },
+      {
+        "title": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat",
+        "url": "https://www.cnbc.com/2026/09/08/pharma-tariffs-trump-generic-drugs-sandoz-cmd-stock.html",
+        "summary": "Sandoz chief executive cautioned that proposed tariffs on imported generic pharmaceuticals would directly inflate prescription drug costs for American patients."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "Oil prices rise after Saudi Arabia shut down critical pipeline that bypasses Strait of Hormuz",
+        "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
+        "summary": "Crude prices rallied following Saudi Arabia's temporary shutdown of its strategic East-West pipeline bypassing the Strait of Hormuz."
+      },
+      {
+        "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
+        "url": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html",
+        "summary": "Economists and energy analysts warn that sustained oil price spikes risk dampening global consumer demand and triggering renewed stagflation risks."
+      },
+      {
+        "title": "Oil's roundtrip back to . Why China could determine what happens next",
+        "url": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
+        "summary": "Brent and WTI crude hover near the  per barrel mark as markets assess Middle East geopolitical friction against Chinese industrial demand."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+        "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+        "summary": "The latest August CPI print confirmed sticky core inflation pressures, strengthening expectations for a hawkish stance at the upcoming FOMC meeting."
+      },
+      {
+        "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+        "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+        "summary": "Real hourly earnings eroded as consumer prices climbed faster than wages, tightening household disposable budgets across the US."
+      },
+      {
+        "title": "Ray Dalio Says Interest Costs Are Crowding Out Everything Else—Here’s His Three-Year Warning",
+        "url": "https://finance.yahoo.com/economy/policy/articles/ray-dalio-says-interest-costs-222107955.html",
+        "summary": "Bridgewater founder Ray Dalio warned that compounding debt service payments will increasingly crowd out private capital and public investments over the next three years."
+      }
+    ]
+  }
+}
