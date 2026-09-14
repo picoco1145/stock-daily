@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-15",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
+        "url": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
+        "summary": "Trump phoned Nvidia CEO Jensen Huang during the All-In Summit, dismissing opposition to AI data center buildouts as a hoax."
+      },
+      {
+        "title": "CrowdStrike CEO on Anthropic’s AI safety warning: ‘The genie’s out of the bottle’",
+        "url": "https://www.cnbc.com/2026/09/14/crowdstrike-ceo-anthropics-ai-safety-warning.html",
+        "summary": "CrowdStrike CEO George Kurtz responded to Anthropic's AI slowdown warning, stating that halting frontier AI development is unrealistic."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+        "url": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+        "summary": "Broadcom CEO Hock Tan reaffirmed that enterprise demand for custom AI silicon and infrastructure remains robust despite safety debates."
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Zscaler, CrowdStrike, Marvell Technology, Rum Group & more",
+        "url": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-midday-zs-crwd-mrvl-rum.html",
+        "summary": "Marvell Technology and other semiconductor and cloud tech stocks saw volatile midday swings amid broader tech sector fluctuations."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+        "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+        "summary": "Bank of America warned of a greater than 10% drop in Q3 investment banking fees, sending financial sector shares lower."
+      },
+      {
+        "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
+        "url": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
+        "summary": "Financial markets face heightened tension as economic policies pressure the Fed toward rate hikes ahead of the FOMC policy decision."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "Novo CEO tells CNBC why drugmaker is rebranding, needs to 'rethink' obesity strategy",
+        "url": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
+        "summary": "Novo Nordisk's CEO announced a strategic rebrand and comprehensive overhaul of its global obesity drug commercial approach."
+      },
+      {
+        "title": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat",
+        "url": "https://www.cnbc.com/2026/09/08/pharma-tariffs-trump-generic-drugs-sandoz-cmd-stock.html",
+        "summary": "Sandoz leadership warned that proposed pharmaceutical trade tariffs on generic medicines will directly inflate healthcare costs for patients."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "What's next for oil refiners after an unprecedented run to all-time highs",
+        "url": "https://www.cnbc.com/2026/09/14/whats-next-for-oil-refiners-after-an-unprecedented-run-to-all-time-highs.html",
+        "summary": "U.S. oil refiners navigate historic crack spreads and peak valuations as geopolitical crude supply constraints support high margins."
+      },
+      {
+        "title": "Trump administration repeals Biden era greenhouse gas requirements for power plants",
+        "url": "https://www.cnbc.com/2026/09/14/trump-epa-carbon-dioxide-power-plant-climate-change.html",
+        "summary": "The EPA officially dismantled federal emissions limits on power stations, boosting fossil fuel infrastructure and thermal power generation."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+        "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
+        "summary": "The FOMC convenes with interest rate futures pricing over a 90% chance of a 25 bps rate hike amid sticky inflation metrics."
+      },
+      {
+        "title": "The 10-year Treasury yield just hit 5%. How income investors can profit",
+        "url": "https://www.cnbc.com/2026/09/14/the-10-year-treasury-yield-just-hit-5percent-how-income-investors-can-profit.html",
+        "summary": "The benchmark 10-year Treasury note breached the 5% threshold, triggering cross-asset reallocations and macro headwinds."
+      }
+    ]
+  }
+}
