@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-16",
+  "sections": {
+    "Big Tech/AI": [
+      {
+        "title": "2026 Top Trends Shaping the World of AI and Tech",
+        "url": "https://aiquinta.ai/insight/2026-trends-shaping-the-world-of-ai-and-tech/",
+        "summary": "Enterprise shift from experimentation to execution with focus on agentic AI, physical AI robotics, and data sovereignty."
+      },
+      {
+        "title": "Best Artificial Intelligence (AI) Stocks to Buy Now",
+        "url": "https://www.zacks.com/featured-articles/201/best-ai-stocks-to-buy-now",
+        "summary": "Analysis of leading tech companies capitalizing on AI infrastructure expansion and enterprise software integration."
+      }
+    ],
+    "Semiconductors": [
+      {
+        "title": "TSMC 2nm (N2) Process Node Enters Production; A16 and N2P on Roadmap",
+        "url": "https://www.tomshardware.com/tech-industry/tsmcs-2nm-n2-process-node-enters-production-this-year-a16-and-n2p-arriving-next-year",
+        "summary": "TSMC advances mass production plans for its 2nm N2 node alongside A16 architecture and backside power delivery."
+      },
+      {
+        "title": "NVIDIA Examines Next-Gen AI Acceleration and TSMC A16 Supply Chain",
+        "url": "https://www.trendforce.com/news/2026/03/13/news-nvidia-may-offer-first-look-at-feynman-at-gtc-2026-tsmc-a16-and-taiwan-supply-chain-in-focus/",
+        "summary": "AI accelerator advancements highlight TSMC advanced packaging capacity and sub-2nm node deployment."
+      }
+    ],
+    "Finance": [
+      {
+        "title": "Stock Market Update: Fed Gathers with Yields and Oil Up, Stocks Down",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "summary": "U.S. financial sector reacts to rising Treasury yields and higher crude oil ahead of the Fed rate decision."
+      },
+      {
+        "title": "Fed Meeting Updates and Commentary: September 2026",
+        "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026",
+        "summary": "Banking institutions and markets monitor the FOMC meeting as expectations lean toward monetary policy tightening."
+      }
+    ],
+    "Healthcare": [
+      {
+        "title": "Lazard Global Biopharmaceutical Leaders Study 2026",
+        "url": "https://www.lazard.com/research-insights/lazard-global-biopharmaceutical-leaders-study-2026/",
+        "summary": "Biopharma industry leaders assess strategic M&A trends, pipeline expansion, and AI-driven clinical development."
+      },
+      {
+        "title": "Top Pharmaceutical Stocks To Research - September 2026",
+        "url": "https://www.marketbeat.com/instant-alerts/list-top-pharmaceutical-stocks-to-research-september-14th-2026-09-14/",
+        "summary": "Market analysis highlighting major pharmaceutical and biotech firms navigating regulatory updates."
+      }
+    ],
+    "Energy": [
+      {
+        "title": "Oil Jumps as Saudi Export Halt and Libya Outages Stoke Supply Fears",
+        "url": "https://www.koreatimes.co.kr/world/20260916/oil-jumps-nearly-3-as-saudi-export-halt-libya-outages-stoke-supply-fears",
+        "summary": "Crude oil benchmarks surge following export disruptions at Saudi facilities and Libyan production suspensions."
+      },
+      {
+        "title": "Oil Settles US$3 Higher on Yanbu Disruption and Saudi Cargo Cancellations",
+        "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-settles-us3-higher-yanbu-disruption-saudi-cargo-cancellations",
+        "summary": "WTI crude futures climb above $105 per barrel amid Red Sea terminal constraints and supply tightening."
+      }
+    ],
+    "Macro": [
+      {
+        "title": "Federal Reserve is Expected to Raise Benchmark Rate",
+        "url": "https://www.latimes.com/business/story/2026-09-15/federal-reserve-is-expected-to-raise-its-benchmark-rate-defying-trumps-demands",
+        "summary": "FOMC concludes two-day meeting with markets anticipating a 25 basis point hike in the federal funds rate."
+      },
+      {
+        "title": "Economy Statement for the Treasury Borrowing Advisory Committee",
+        "url": "https://home.treasury.gov/news/press-releases/sb0585",
+        "summary": "Official U.S. Treasury report evaluating annualized real GDP growth, inflation trends, and borrowing forecasts."
+      }
+    ]
+  }
+}
